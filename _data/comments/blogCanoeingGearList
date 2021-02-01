@@ -1,3 +1,5 @@
+- comment: a crazy comment
+  name: some name
 !!python/object/apply:werkzeug.datastructures.ImmutableMultiDict
 - - !!python/tuple
     - name
