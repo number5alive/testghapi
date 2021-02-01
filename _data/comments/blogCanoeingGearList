@@ -1,2 +1,3 @@
+"- name: some name\n  comment: a crazy comment\n"
 - name: some name
   comment: a crazy comment
